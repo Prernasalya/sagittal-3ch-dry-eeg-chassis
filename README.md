@@ -12,7 +12,7 @@ An ergonomically compliant, trans-hair dry-contact EEG headband chassis designed
 
 | Hero Photorealistic Render | Mechanical FEA Study (Stress & Compliance) |
 | :---: | :---: |
-| <img src="eeg_chassis_renders1.PNG" width="450"> | <img src="fea_study.png" width="450"> |
+| <img src="hero_render.PNG" width="450"> | <img src="fea_study.png" width="450"> |
 
 ---
 
