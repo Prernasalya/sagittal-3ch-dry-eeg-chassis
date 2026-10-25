@@ -51,7 +51,7 @@ Linear static stress and compliance simulation was conducted within the Autodesk
 
 ### Simulation Results
 * **Max von Mises Stress:** $\mathbf{11.55\text{ MPa}}$ (Safety Factor = $\mathbf{4.16}$)
-* **Max Resultant Displacement:** $\mathbf{2.171\text{ mm}$
+* **Max Resultant Displacement:** $\mathbf{2.171\text{ mm}}$
 * **Derived Structural Stiffness:**
   $$k = \frac{F}{\delta} = \frac{1.2\text{ N}}{2.171\text{ mm}} \approx \mathbf{0.553\text{ N/mm}}$$
 * *Conclusion:* Demonstrates compliant flexural behavior that accommodates cranial anatomical variance without plastic deformation or localized ischemia.
